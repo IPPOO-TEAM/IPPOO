@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap pour le domaine healthypage-aptdc.com (plateforme IPPOO-HEALTHY PAGE).
+  À DÉPLOYER à la racine de ce domaine : https://healthypage-aptdc.com/sitemap.xml
+  Puis soumettez-le dans une propriété Google Search Console de ce domaine.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://healthypage-aptdc.com/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

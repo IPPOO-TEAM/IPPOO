@@ -1,0 +1,11 @@
+{
+  "title": "IPPOO",
+  "description": "IPPOO connects informal workers with job opportunities, providing a platform for skill showcasing and networking to enhance employment prospects.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "IPPOO — Économie populaire africaine",
+  "short_name": "IPPOO",
+  "description": "IPPOO, la première entité qui accompagne les actifs du secteur informel, main dans la main : 21 espaces pour financer, connecter et accompagner les acteurs informels en Afrique.",
+  "id": "/",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "tabbed", "standalone", "minimal-ui", "browser"],
+  "orientation": "portrait",
+  "background_color": "#FFF8F2",
+  "theme_color": "#FF2D7A",
+  "lang": "fr",
+  "dir": "ltr",
+  "categories": ["business", "finance", "shopping", "productivity"],
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "launch_handler": { "client_mode": ["navigate-existing", "auto"] },
+  "handle_links": "preferred",
+  "edge_side_panel": { "preferred_width": 420 },
+  "share_target": {
+    "action": "/",
+    "method": "GET",
+    "params": { "title": "title", "text": "text", "url": "url" }
+  },
+  "protocol_handlers": [
+    { "protocol": "web+ippoo", "url": "/?handler=%s" }
+  ],
+  "scope_extensions": [
+    { "origin": "*.ippoo-aptdc.com" }
+  ],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [
+    { "src": "/screenshots/desktop-1.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "Accueil IPPOO sur ordinateur" },
+    { "src": "/screenshots/mobile-1.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Accueil IPPOO sur mobile" },
+    { "src": "/screenshots/mobile-2.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Espaces thématiques IPPOO" }
+  ],
+  "shortcuts": [
+    { "name": "Rejoindre IPPOO", "short_name": "Adhésion", "description": "Adhérer à IPPOO", "url": "/?source=pwa#adhesion", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Nos espaces", "short_name": "Espaces", "description": "Découvrir les espaces IPPOO", "url": "/?source=pwa#espaces", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

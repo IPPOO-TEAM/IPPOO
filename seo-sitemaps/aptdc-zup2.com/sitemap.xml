@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap pour le domaine aptdc-zup2.com (plateformes IPPOO).
+  À DÉPLOYER à la racine de ce domaine : https://aptdc-zup2.com/sitemap.xml
+  Puis, dans Google Search Console, créez une PROPRIÉTÉ DE DOMAINE
+  « aptdc-zup2.com » et soumettez ce sitemap. La propriété de domaine couvre
+  automatiquement tous les sous-domaines ci-dessous.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://insurance.aptdc-zup2.com/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://financial.aptdc-zup2.com/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kapital.aptdc-zup2.com/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://works.aptdc-zup2.com/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://triip.aptdc-zup2.com/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

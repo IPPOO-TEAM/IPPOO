@@ -1,0 +1,37 @@
+# IPPOO
+
+> IPPOO est la plateforme numérique de l'économie populaire et informelle en Afrique. Elle regroupe 21 espaces thématiques permettant aux acteurs informels (producteurs, commerçants, artisans, prestataires, transformateurs) d'accéder au financement, aux marchés, à la formation, à la santé et à la protection sociale. IPPOO est une propriété de APTDC-Z-UP/TDO/LIMITED.
+
+## Informations officielles
+- Nom : IPPOO
+- Propriétaire : APTDC-Z-UP/TDO/LIMITED
+- Site officiel : https://ippoo-aptdc.com/
+- Zone : Afrique (base au Bénin, Parakou)
+- Langue : français
+- Contact / WhatsApp : +229 01 41 52 10 92
+- Email : ippooz.up.2@gmail.com
+
+## Espaces de l'écosystème IPPOO
+- IPPOO-ASSURANCE — micro-assurance et assistance : https://insurance.aptdc-zup2.com
+- IPPOO-FINANCES & CRÉDIT — crédit et microfinancement : https://financial.aptdc-zup2.com
+- IPPOO-KAPITAL INVEST — investissement et capitaux : https://kapital.aptdc-zup2.com
+- IPPOO-AAGRO — agriculture et agroalimentaire : https://aagro.ippoo-aptdc.com
+- IPPOO-SOCIAL FAKT — réseau social communautaire : https://socialfakt.ippoo-aptdc.com
+- IPPOO-MARKET — marché numérique : https://market.ippoo-aptdc.com
+- IPPOO-COMIT — comités et organisations : https://comyt.ippoo-aptdc.com
+- IPPOO-SHUUP — boutiques en ligne : https://shuup.ippoo-aptdc.com
+- IPPOO-KRAAFT — artisanat et prestataires : https://kraaft.ippoo-aptdc.com
+- IPPOO-HEALTHY PAGE — santé et bien-être : https://healthypage-aptdc.com
+- IPPOO-FASHION — mode et textile : https://fashion.ippoo-aptdc.com
+- IPPOO-EVENTS — événements : https://events.ippoo-aptdc.com
+- IPPOO-WORKS & JOBS — emploi et compétences : https://works.aptdc-zup2.com
+- DIAZZ-IPPOO — services pour la diaspora : https://diazz.ippoo-aptdc.com
+- IPPOO-TRIIP — mobilité et logistique : https://triip.aptdc-zup2.com
+- IPPOO-BROK'IN-VESTS — comptoir commercial B2B : https://broks.ippoo-aptdc.com
+- IPPOO-MARKET TRAKER — intelligence économique : https://markettraker.ippoo-aptdc.com
+- IPPOO-KOOKA — contrôle qualité : https://kooka.ippoo-aptdc.com
+- IPPOO-KOOKI — traçabilité qualité : https://kooki.ippoo-aptdc.com
+
+## Ressources
+- Robots : https://ippoo-aptdc.com/robots.txt
+- Sitemap : https://ippoo-aptdc.com/sitemap.xml
