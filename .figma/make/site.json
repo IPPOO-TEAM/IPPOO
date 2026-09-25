@@ -1,0 +1,11 @@
+{
+  "title": "IPPOO — L'entité N°1 accompagnant les actifs de l'informel en Afrique",
+  "description": "IPPOO, l'entité N°1 accompagnant les actifs de l'informel en Afrique : 21 espaces thématiques. Plateforme intégrée, services concrets, impact durable.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

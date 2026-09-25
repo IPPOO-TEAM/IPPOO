@@ -1,0 +1,6 @@
+# Cloudflare — redirections IPPOO (destinations relatives uniquement)
+# Docs : https://developers.cloudflare.com/workers/static-assets/redirects/
+# Note : le fallback SPA est géré par wrangler (not_found_handling: single-page-application).
+# La canonicalisation www -> apex se fait via une Redirect Rule / DNS dans le dashboard Cloudflare.
+
+/espaces /espaces/ 301

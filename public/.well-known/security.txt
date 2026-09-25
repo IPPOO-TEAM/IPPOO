@@ -1,0 +1,6 @@
+# security.txt — RFC 9116 (https://securitytxt.org/)
+Contact: mailto:ippooz.up.2@gmail.com
+Contact: tel:+2290141521092
+Expires: 2027-09-25T00:00:00.000Z
+Preferred-Languages: fr
+Canonical: https://ippoo-aptdc.com/.well-known/security.txt
